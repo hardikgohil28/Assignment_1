@@ -1,8 +1,9 @@
-import java.util
+import java.util.*;
 
 public class cube{
-public static void main(){
-int n=2;
-system.out.println(n^3);
-}
+	public static void main(String[] args){
+	int x=2;
+
+	System.out.println(x*x*x);
+	}
 }
